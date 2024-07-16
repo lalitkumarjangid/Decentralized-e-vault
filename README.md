@@ -5,6 +5,7 @@ Welcome to the Decentralized E-Vault! This repository contains the source code f
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Technology](#technology)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,6 +22,16 @@ The Decentralized E-Vault is designed to provide a secure and decentralized way 
 - **User-friendly Interface**: A responsive and intuitive user interface built with React and TailwindCSS.
 - **Smart Contracts**: Solidity smart contracts to handle file metadata and ownership.
 - **Secure and Transparent**: Ensures data security and transparency through blockchain technology.
+
+## Technology
+The Decentralized E-Vault leverages several modern technologies to provide a robust and secure file storage solution:
+
+- **MetaMask**: A browser extension to interact with the Ethereum blockchain.
+- **React**: A JavaScript library for building user interfaces.
+- **Solidity**: A programming language for writing smart contracts on the Ethereum blockchain.
+- **Pinata**: A service to manage and pin files to the IPFS network.
+- **TailwindCSS**: A utility-first CSS framework for rapid UI development.
+- **Hardhat**: A development environment to compile, deploy, test, and debug Ethereum software.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -90,6 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for using the Decentralized E-Vault! If you have any questions or need further assistance, please open an issue in this repository.
+
 
 
 ## Run commands 
